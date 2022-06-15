@@ -1,1 +1,1 @@
-<blockquote>生于忧患, 死于安乐</blockquote>
+<h1>生于忧患, 死于安乐</h1>
